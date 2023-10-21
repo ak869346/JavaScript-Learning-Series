@@ -17,8 +17,9 @@ console.log(num,s);
 let t = num.shift();   // remove the first element and return it....
 console.log(t);
 
-let q = num.unshift(12);
+let q = num.unshift(12);   // add element at beginning and return new array length...
 console.log(q,num);
 
 let u = num.unshift(123);
 console.log(u);
+

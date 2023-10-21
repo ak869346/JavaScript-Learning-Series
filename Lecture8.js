@@ -12,6 +12,7 @@ a = Number.parseInt(a);
 // }
 
 
+
 // Ques 2..
 
 // switch(a) {
